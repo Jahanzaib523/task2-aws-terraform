@@ -1,6 +1,6 @@
-#TASK - Create two EC2 in the AWS using Terraform
+# TASK - Create two EC2 in the AWS using Terraform
 
-#Install the Nginx on the created EC2 Instances
+# Install the Nginx on the created EC2 Instances
 
 # Replace the default nginx-website with the new-website
 
